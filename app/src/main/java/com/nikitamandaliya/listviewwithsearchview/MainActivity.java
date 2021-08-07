@@ -13,8 +13,7 @@ import android.widget.SearchView;
 
 import java.util.ArrayList;
 
-//https://devofandroid.blogspot.com/2018/03/custom-listview-with-searchview-on.html
-//http://eazyprogramming.blogspot.com/2013/01/passing-image-between-activities.html
+
 public class MainActivity extends AppCompatActivity {
     ListView listView;
     ListViewAdapter adapter;
